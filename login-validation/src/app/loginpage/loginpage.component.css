@@ -1,0 +1,48 @@
+.loginPage{
+    background: #c1c1cc;
+    padding: 10px;
+    box-shadow: 1px 1px 15px #eee;
+    text-align: center;
+  }
+  h1{
+    text-align: center
+  }
+  label{
+    font-size: 1.3em;
+    padding: 15px 0;
+  }
+  input,button{
+    font-size: 1.2m;
+    width: 200px;
+    padding: 10px;
+    box-sizing: border-box;
+    margin: 5px;
+    border: 1px solid #00000f;
+    box-shadow: 1px 1px 15px #eee;
+  }
+  button{
+    width: 100px;
+    border: 1px solid #000000;
+    margin: 15px 5px;
+  }
+  .btn{
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+  }
+  .loginData{
+    font-size: 1.3em;
+    text-align: center;
+    font-weight: bold;
+    margin: 10px;
+    border: 1px solid #999;
+    padding: 10px;
+  }
+  .success{
+    color:white;
+    background-color: green;
+  }
+  .failed{
+    color:white;
+    background-color: red;
+  }
