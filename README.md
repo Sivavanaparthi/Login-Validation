@@ -40,20 +40,20 @@ pwd:User Password.
 ## STEPS:
 
 Initially the component looks like this:  
-<p align="center"><img src="Git img/Screenshot (20).png"></p>
+<p align="center"><img src="login-validation/image/blank login.png"></p>
 
 Enter username and password in given input boxes. If the given password is less than three characters then the login button is in disabled.
  Once the entered password is equal to or greater than 3, login button is in enabled.
  
-<p align="center"><img src="Git img/Screenshot (16).png"></p>
+<p align="center"><img src="login-validation/image/invalid login.png"></p>
 
 If the entered username and password values are same as json data values it shows success message.
 
-<p align="center"><img src="Git img/Screenshot (18).png"></p>
+<p align="center"><img src="login-validation/image/success.png"></p>
 
  If the given values are not same as JSON data then it shows error message.
  
-<p align="center"><img src="Git img/Screenshot (19).png"></p>
+<p align="center"><img src="login-validation/image/fail.png"></p>
 
 
 ## @Input Decorator:
