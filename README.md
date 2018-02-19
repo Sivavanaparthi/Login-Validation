@@ -1,6 +1,6 @@
 
 
-# login-validation
+# Login-validation
 
 Login validation using json data. If username and password are matching with json data then only it shows success message otherwise it shows error message.  
 
