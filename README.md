@@ -47,11 +47,11 @@ Enter username and password in given input boxes, if the given password is less 
  
 <p align="center"><img src="login-validation/image/invalid login.png"></p>
 
- If the given values are matched with JSON data then it shows success message.
+ If the given values are matched with JSON data it shows success message.
 
 <p align="center"><img src="login-validation/image/success.png"></p>
 
- If the given values are not matched with as JSON data then it shows error message.
+ If the given values are not matched with JSON data then it shows error message.
  
 <p align="center"><img src="login-validation/image/fail.png"></p>
 
